@@ -4,7 +4,7 @@ Generar un algoritmo que permite calcular y presentar el area de un triangulo,
 Los datos deben ser pedidios al usuario
 */
 import java.util.Scanner;
-public class AreaTriangulo_1 {
+public class Ejercicio01 {
  
     public static void main (String[]arg){
     double baseTriangulo;

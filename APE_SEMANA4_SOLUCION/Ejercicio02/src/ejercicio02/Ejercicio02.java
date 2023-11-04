@@ -1,5 +1,14 @@
+/*
+-Algoritmo02-
+Generar un algoritmo que permite ingresar los gastos de tres hijos de un padre de familia; 
+Calcular y mostrar el total de gastos de los hijos del padre de familia.
+ */
 import java.util.Scanner;
-public class GastosHijos {
+/**
+ * @autor: Pablo Velez
+ */
+
+public class Ejercicio02 {
     public static void main(String[]arg){
         double gastosHijos1, gastosHijos2, gastosHIjos3, gastosTotales;
         Scanner teclado = new Scanner(System.in);
